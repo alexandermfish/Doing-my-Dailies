@@ -18,6 +18,8 @@ Points allow for streak pauses, and routines should be customizable (ie, can be 
 ### Note
 This readme is currently to serve as a very very rough design doc/inspiration - ideally I would love to create all these features, but in the mean time they are simply reminders. This app is 100% for my own purposes in the interest of self development (both by learning how to make the app and the actual usage of working versions) but feel free to use any aspect of it (once it exists).
 
+This app is an android app with no plans for iphone.
+
 
 ### Usage
 TODO (the irony is not lost on me)
